@@ -1,0 +1,2 @@
+D:\C++\MergeSort\Debug\MergeSort.exe
+D:\C++\MergeSort\Debug\MergeSort.pdb

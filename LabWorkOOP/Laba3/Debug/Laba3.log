@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\C++\Laba3\Laba3\Source.cpp(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(68,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(82,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(102,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(110,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(137,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(171,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(184,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(198,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Laba3\Laba3\Source.cpp(224,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba3.vcxproj -> D:\C++\Laba3\Debug\Laba3.exe

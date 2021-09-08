@@ -1,0 +1,7 @@
+﻿  node.cpp
+  stack.cpp
+  Stack_multi-file.cpp
+C:\Users\Comp\source\repos\Stack_multi-file\Stack_multi-file.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Comp\source\repos\Stack_multi-file\Stack_multi-file.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Stack_multi-file.vcxproj -> C:\Users\Comp\source\repos\Stack_multi-file\Debug\Stack_multi-file.exe

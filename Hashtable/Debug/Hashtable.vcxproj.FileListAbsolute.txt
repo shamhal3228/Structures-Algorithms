@@ -1,0 +1,2 @@
+D:\C++\Hashtable\Debug\Hashtable.exe
+D:\C++\Hashtable\Debug\Hashtable.pdb

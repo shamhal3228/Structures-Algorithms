@@ -1,0 +1,5 @@
+﻿  algDeikstra.cpp
+D:\C++\algDeikstra\algDeikstra\algDeikstra.cpp(10,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\C++\algDeikstra\algDeikstra\algDeikstra.cpp(10,36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\C++\algDeikstra\algDeikstra\algDeikstra.cpp(11,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  algDeikstra.vcxproj -> D:\C++\algDeikstra\Debug\algDeikstra.exe

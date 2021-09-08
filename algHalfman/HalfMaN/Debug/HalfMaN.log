@@ -1,0 +1,16 @@
+﻿  HalfMaN.cpp
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(79,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(124,14): warning C4244: инициализация: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(134,14): warning C4244: инициализация: преобразование "_Ty2" в "float", возможна потеря данных
+          with
+          [
+              _Ty2=int
+          ]
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(147,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\HalfMaN\HalfMaN\HalfMaN.cpp(155,12): warning C4244: инициализация: преобразование "unsigned int" в "float", возможна потеря данных
+  HalfMaN.vcxproj -> D:\C++\HalfMaN\Debug\HalfMaN.exe

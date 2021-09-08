@@ -1,0 +1,4 @@
+﻿  MergeSort.cpp
+D:\C++\MergeSort\MergeSort.cpp(27,17): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+D:\C++\MergeSort\MergeSort.cpp(74,15): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+  MergeSort.vcxproj -> D:\C++\MergeSort\Debug\MergeSort.exe

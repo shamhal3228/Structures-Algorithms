@@ -1,0 +1,3 @@
+﻿  Hashtable.cpp
+D:\C++\Hashtable\Hashtable.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Hashtable.vcxproj -> D:\C++\Hashtable\Debug\Hashtable.exe

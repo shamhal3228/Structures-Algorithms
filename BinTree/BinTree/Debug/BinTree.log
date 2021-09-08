@@ -1,0 +1,4 @@
+﻿  BinTree.cpp
+D:\C++\BinTree\BinTree\BinTree.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\BinTree\BinTree\BinTree.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+  BinTree.vcxproj -> D:\C++\BinTree\Debug\BinTree.exe

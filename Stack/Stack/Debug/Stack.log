@@ -1,0 +1,4 @@
+﻿  Stack.cpp
+D:\C++\Stack\Stack\Stack.cpp(63,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\Stack\Stack\Stack.cpp(124,75): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Stack.vcxproj -> D:\C++\Stack\Debug\Stack.exe

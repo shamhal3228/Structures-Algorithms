@@ -1,0 +1,2 @@
+D:\C++\WordBinSearch\Debug\WordBinSearch.exe
+D:\C++\WordBinSearch\Debug\WordBinSearch.pdb

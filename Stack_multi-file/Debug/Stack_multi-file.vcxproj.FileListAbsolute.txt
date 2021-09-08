@@ -1,0 +1,2 @@
+C:\Users\Comp\source\repos\Stack_multi-file\Debug\Stack_multi-file.exe
+C:\Users\Comp\source\repos\Stack_multi-file\Debug\Stack_multi-file.pdb
