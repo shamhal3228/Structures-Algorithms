@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Comp\source\repos\list\list\Source.cpp(197,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Comp\source\repos\list\list\Source.cpp(205,22): warning C4018: <: несоответствие типов со знаком и без знака
+  list.vcxproj -> C:\Users\Comp\source\repos\list\Debug\list.exe
