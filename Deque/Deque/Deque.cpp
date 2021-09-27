@@ -2,7 +2,7 @@
 
 using namespace std;
 
-struct node //элемент бинарного дерева
+struct node //элемент дека
 {
     int data; //информационное значение
     node* prev, * next; //указатели на потомков
